@@ -1,0 +1,10 @@
+{
+    "mandatorySignIn": {
+        "enabled": true,
+        "secondsBetweenPrompt": 86400,
+        "title": "The BBC is better when you sign in",
+        "subtitle": "It’s quick and easy",
+        "canDismiss": true,
+        "dismissMessage": "Maybe later"
+    }
+}
